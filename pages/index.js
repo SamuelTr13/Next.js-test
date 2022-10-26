@@ -21,13 +21,13 @@ const IndexPage = () => {
   return (
     <>
       <Head>
-        <title>Reactime</title>
+        <title>Reactime | Home</title>
       </Head>
       <NavBar scrollYProgress={scrollYProgress} />
         <div style={{ margin: '80px 0 80px 0' }}>
         </div>
       <div className="splash-container">
-        <Image alt='Reactime Logo' src="/ReactimeIO.png" width='800%' height='350%'/>
+        <Image alt='Reactime Logo' src="/reactimeonly.png" width='500%' height='300%'/>
         <h1 className="spash-header">
           <span className="spash-header-text">
             State Management and Time Travel Debugging
