@@ -7,6 +7,6 @@
 "eslint-disable react/jsx-filename-extension": "on",
 "eslint-disable no-unused-vars": "on",
 "eslint-disable semi": "on",
-"eslint-disable max-len": "on",
+"eslint-disable max-len": "on"
   }
 }
