@@ -1,8 +1,8 @@
 import React from 'react';
-import NavBar from '../components/NavBar';
+import NavBar from '../utils/NavBar';
 import Features from '../components/features';
 import Team from '../components/team';
-import Footer from '../components/footer';
+import Footer from '../utils/Footer';
 import GifFeatures from  '../containers/GifFeatures';
 import TerminalWindow from '../components/TerminalWindow';
 import { useScroll } from 'framer-motion';
