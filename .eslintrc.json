@@ -3,10 +3,10 @@
   "rules": {
     "react/no-unescaped-entities": "off",
     "@next/next/no-page-custom-font": "off",
-    "eslint-disable react/no-unescaped-entities": "on",
-"eslint-disable react/jsx-filename-extension": "on",
-"eslint-disable no-unused-vars": "on",
-"eslint-disable semi": "on",
-"eslint-disable max-len": "on"
+    "eslint-disable react/no-unescaped-entities": "off",
+"eslint-disable react/jsx-filename-extension": "off",
+"eslint-disable no-unused-vars": "off",
+"eslint-disable semi": "off",
+"eslint-disable max-len": "off"
   }
 }
