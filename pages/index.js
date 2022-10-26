@@ -1,6 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
-/* eslint-disable react/jsx-filename-extension */
-/* eslint-disable no-unused-vars */
 import React from 'react';
 import NavBar from '../components/NavBar';
 import Features from '../components/features';

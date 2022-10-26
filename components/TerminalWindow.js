@@ -1,4 +1,3 @@
-// @ts-ignore
 import React, { Children, useState } from "react";
 import { Browser } from "react-window-ui";
 import Typewriter from "typewriter-effect";

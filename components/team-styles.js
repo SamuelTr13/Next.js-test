@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import { bios } from './team-bios';
 
 export const styles = {
     reactGreen: '#2D2D2F',

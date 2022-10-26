@@ -1,5 +1,3 @@
-/* eslint-disable react/button-has-type */
-/* eslint-disable react/jsx-filename-extension */
 import React, { useState } from 'react';
 import InstallationOlder from './installationOlder';
 import VisualStateOlder from './visualStateOlder';
